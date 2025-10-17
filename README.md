@@ -1,1 +1,1 @@
-# Unified Geometric Modelling & Control API for Manipulators
+# Geometric Modelling & Control API for Manipulators
